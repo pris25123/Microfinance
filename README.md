@@ -66,17 +66,25 @@ The system implements a comprehensive ER model with:
 ```
 Microfinance_Loan_Management/
 ├── microfinance-backend/
-│   ├── database/           # SQL scripts and schema
-│   ├── api/               # REST API endpoints
-│   └── procedures/        # Stored procedures
+│   ├── .gitignore
+│   ├── .gitattributes
+│   ├── package.json
+│   ├── package-lock.json
+│   ├── yarn.lock
+│   └── server.js
 ├── microfinance-frontend/
+│   ├── public/
+│   │   └── (static files)
 │   ├── src/
-│   │   ├── components/    # React components
-│   │   ├── pages/         # Application pages
-│   │   ├── context/       # React context for state
-│   │   └── styles/        # CSS files
-├── .gitignore
-└── MICROFINANCE_DB.sql    # Complete database setup
+│   │   └── (React source code)
+│   ├── .gitignore
+│   ├── README.md
+│   ├── package.json
+│   ├── package-lock.json
+│   └── yarn.lock
+├── MICROFINANCE_DB.sql
+├── README.md
+└── .gitignore
 ```
 
 ## 🛠️ Setup Instructions

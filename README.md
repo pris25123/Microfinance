@@ -1,5 +1,8 @@
 # Microfinance Loan Management System
 
+## 🎥 Demo Video
+![System Demo Video](demo_video.mp4)
+
 ## 📋 Overview
 A comprehensive database-driven web application for managing microfinance loan operations, including borrower management, loan processing, repayment tracking, and financial analytics. Built with MySQL backend and React frontend.
 

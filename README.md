@@ -3,6 +3,10 @@
 ## 📋 Overview
 A comprehensive database-driven web application for managing microfinance loan operations, including borrower management, loan processing, repayment tracking, and financial analytics. Built with MySQL backend and React frontend.
 
+## 🎥 Demo Video
+
+[![Project Demo](https://img.youtube.com/vi/AEvAwIRPoZE/0.jpg)](https://www.youtube.com/watch?v=AEvAwIRPoZE)
+
 ## 🚀 Features
 
 ### **Core Functionalities**
